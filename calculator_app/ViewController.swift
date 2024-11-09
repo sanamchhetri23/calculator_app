@@ -69,7 +69,7 @@ class ViewController: UIViewController {
                 result = firstNum + secondNum
             case "-":
                 result = firstNum - secondNum
-            case "*":
+            case "x":
                 result = firstNum * secondNum
             case "/":
                 if secondNum != 0 {
